@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PauloTorrente
 - 👀 I’m interested in learning code 
-- 🌱 I’m currently learning HTML, C, javascript and CSS
 - 💞️ I’m looking to learn everything
 
 
